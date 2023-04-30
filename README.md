@@ -24,5 +24,5 @@ int main() {
 ## License
 
 Published under the MIT license, see
-[LICENSE](https://github.com/eduinlight/c-terminal-colors/blob/master/LICENSE).
+[LICENSE](./LICENSE).
 
