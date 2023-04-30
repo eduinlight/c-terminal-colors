@@ -19,6 +19,6 @@
 #define set_tc_purple() printf("%s", TERMINAL_COLOR_PURPLE);
 #define set_tc_cyan() printf("%s", TERMINAL_COLOR_CYAN);
 #define set_tc_white() printf("%s", TERMINAL_COLOR_WHITE);
-#define set_tc_default() printf("%s", TERMINAL_COLOR_RESET);
+#define set_tc_default() printf("%s", TERMINAL_COLOR_DEFAULT);
 
 #endif // !C_TERMINAL_COLORS_HEADER
