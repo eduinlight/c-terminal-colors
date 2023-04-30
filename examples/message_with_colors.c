@@ -8,6 +8,6 @@ int main() {
       "%sBack to normal message\n",
       TERMINAL_COLOR_RED,
       TERMINAL_COLOR_GREEN,
-      TERMINAL_COLOR_RESET);
+      TERMINAL_COLOR_DEFAULT);
   return 0;
 }
