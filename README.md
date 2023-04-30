@@ -1,5 +1,5 @@
 # c-terminal-colors
-Colors definition for terminal output used in C/C++ terminal programs
+Colors definition for terminal output used in C/C++ terminal programs. Visit https://chrisyeh96.github.io/2020/03/28/terminal-colors.html for mor info.
 
 ## Example
 ```C
